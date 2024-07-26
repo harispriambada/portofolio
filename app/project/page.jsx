@@ -19,7 +19,7 @@ const projects = [
     description:
       "Projek ini merupakan projek untuk booking hotel, dan projek ini merupakan bagian dari dashboard saja jadi user terbatas",
     links: {
-      site: "#",
+      site: null,
       github: "https://github.com/harispriambada/ThewildBookingApp",
     },
   },
@@ -44,11 +44,11 @@ const projects = [
   },
   {
     img: image4,
-    title: "Project 01",
+    title: "the word wise",
     description:
-      "Projek ini merupakan projek untuk front end, dimana tampilan front end dari website gula semut",
+      "Projek untuk perhotelan yang dibuat ketika course di ultimate react js di udemy bersama jonas",
     links: {
-      site: "#",
+      site: "https://thewidewise-website.vercel.app/",
       github: "https://github.com/harispriambada/thewidewise-website",
     },
   },
