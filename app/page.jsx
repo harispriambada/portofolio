@@ -32,7 +32,7 @@ export default function Home() {
                 href={
                   "https://drive.google.com/file/d/1_I5mfmG5kEyAaTmp7fzVgA4NAaJJp2-7/view"
                 }
-                className="uppercase flex items-center gap-2 py-3 px-2 bg-accent hover:bg-accent-hover rounded-3xl"
+                className="inline-flex items-center justify-center whitespace-nowrap rounded-full text-base font-semibold ring-offset-white  transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-slate-950 focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 dark:ring-offset-slate-950 dark:focus-visible:ring-slate-300  h-[44px] px-6 uppercase flex items-center gap-2 border border-accent bg-transparent text-accent hover:bg-accent hover:text-primary"
               >
                 <span>Download CV</span>
                 <FiDownload className="text-xl" />
