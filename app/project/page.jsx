@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 
 import image1 from "@/public/pic/thewilddash.png";
-import image8 from "@/public/pic/ecommerce-gulasemu.png";
+import image8 from "@/public/pic/gulasemut-ecom.png";
 import image2 from "@/public/pic/pizzadelivery.png";
 import image3 from "@/public/pic/usepopcorn.png";
 import image4 from "@/public/pic/thewordwise.png";
