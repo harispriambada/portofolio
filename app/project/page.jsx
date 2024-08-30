@@ -31,7 +31,7 @@ const projects = [
       "Projek ini merupakan sebuah toko online dari bisnis gula semut, bisnis dari keluarga. untuk teknologi yang digunakan pada project ini menggunakan Next js 14, terdapat juga authenticasi menggunakan next auth, untuk styling menggunakan tailwind css dan untuk penyimpanan data menggunakan mongoDb, dan masih menggunakan beberapa library pihak ketiga lain, untuk fitur dan lainya bisa ditanyakan waktu demo",
     links: {
       site: null,
-      github: null,
+      github: "https://github.com/harispriambada/",
     },
   },
   {
