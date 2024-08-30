@@ -6,6 +6,7 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 
 import image1 from "@/public/pic/thewilddash.png";
+import image8 from "@/public/pic/ecommerce-gulasemu.png";
 import image2 from "@/public/pic/pizzadelivery.png";
 import image3 from "@/public/pic/usepopcorn.png";
 import image4 from "@/public/pic/thewordwise.png";
@@ -17,16 +18,27 @@ const projects = [
     img: image1,
     title: "Project 01",
     description:
-      "Projek ini merupakan projek untuk booking hotel, dan projek ini merupakan bagian dari dashboard saja jadi user terbatas",
+      "Project ini merupakan sebuah dashboard booking hotel,dalam project ini menggunakan beberapa teknologi, seperti react router, react query atau tanstack, styled component, react hook form, dan beberapa teknologi lain, untuk lebih jelasnya bisa ditanyakan pada sesi demo.",
     links: {
       site: null,
       github: "https://github.com/harispriambada/ThewildBookingApp",
     },
   },
   {
+    img: image8,
+    title: "Toko online Gula semut",
+    description:
+      "Projek ini merupakan sebuah toko online dari bisnis gula semut, bisnis dari keluarga. untuk teknologi yang digunakan pada project ini menggunakan Next js 14, terdapat juga authenticasi menggunakan next auth, untuk styling menggunakan tailwind css dan untuk penyimpanan data menggunakan mongoDb, dan masih menggunakan beberapa library pihak ketiga lain, untuk fitur dan lainya bisa ditanyakan waktu demo",
+    links: {
+      site: null,
+      github: null,
+    },
+  },
+  {
     img: image2,
     title: "Pizza delivery app",
-    description: "Merupakan sebuah aplikasi untuk pemesanan pizza ",
+    description:
+      "Project ini merupakan project aplikasi untuk pemesanan pizza, dalam project ini menggunakan react Js, dan untuk state manajemen menggunakan redux, untuk styling menggunakan tailwind css,untuk penjelasan detail saat demo. ",
     links: {
       site: null,
       github: "https://github.com/harispriambada/pizza-react-delivery",
@@ -36,7 +48,7 @@ const projects = [
     img: image3,
     title: "UsePopcorn",
     description:
-      "Merupakan app pencarian film, projek ini saya kerjakan di course udemy bersama Jonas",
+      "Merupakan app pencarian film, dalam project ini mengguakan React js dan beberapa teknologi pendukung lain.",
     links: {
       site: null,
       github: "https://github.com/harispriambada/APP-film-USepopcorn",
@@ -46,7 +58,7 @@ const projects = [
     img: image4,
     title: "the word wise",
     description:
-      "Projek untuk perhotelan yang dibuat ketika course di ultimate react js di udemy bersama jonas",
+      "Projek ini merupakan tampilan untuk user ketika booking hotel, dan project ini saling terikat dengan dashboard booking hotel project, untuk teknologi pada project ini menggunakan Next js 14, auth atau next auth, kemudian untuk styilng menggunakan tailwind css, sementara itu masih menggunakan beberapa library pihak ketiga lain untuk lebih jelasnya bisa ditanyakan waktu demo.",
     links: {
       site: "https://thewidewise-website.vercel.app/",
       github: "https://github.com/harispriambada/thewidewise-website",
@@ -56,7 +68,7 @@ const projects = [
     img: image5,
     title: "BookSelf App",
     description:
-      "Projek ini merupakan sebuah bookself app yang mana berguna untuk menyimpan buku ,dan masih berbentuk simulasi",
+      "Projek ini merupakan sebuah bookself app, simulasi book manajemen, project ini menggunakan html css dan vanila jvascript",
     links: {
       site: null,
       github: "https://github.com/harispriambada/bookself-app",
