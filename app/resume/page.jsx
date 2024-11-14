@@ -1,6 +1,13 @@
 "use client";
 
-import { FaHtml5, FaCss3, FaJs, FaBootstrap, FaReact } from "react-icons/fa";
+import {
+  FaHtml5,
+  FaCss3,
+  FaJs,
+  FaBootstrap,
+  FaReact,
+  FaLaravel,
+} from "react-icons/fa";
 import { IoLogoReact } from "react-icons/io5";
 import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 import { motion } from "framer-motion";
@@ -84,6 +91,10 @@ const skills = {
     {
       icon: <IoLogoReact />,
       name: "react query",
+    },
+    {
+      icon: <FaLaravel />,
+      name: "Laravel 11",
     },
   ],
 };
