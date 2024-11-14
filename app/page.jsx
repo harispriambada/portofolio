@@ -13,7 +13,7 @@ export default function Home() {
           <div className="text-center">
             <div className=" mb-5">
               <span className="text-xl">
-                <span className="text-accent">Front</span> end{" "}
+                <span className="text-accent">Web</span>
                 <span className="text-accent">Developer</span>
               </span>
             </div>
@@ -24,7 +24,7 @@ export default function Home() {
               </h1>
               <p className="max-w-[700px] mb-9 text-white/80">
                 Saya merupakan lulusan s1 Informatika, yang memiliki antusias
-                terhadap teknologi IT dan bidang front end developer
+                terhadap teknologi IT dan bidang programing yaitu web developer
               </p>
             </div>
             <div className="flex flex-col items-center gap-8">
