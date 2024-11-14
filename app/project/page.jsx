@@ -13,10 +13,21 @@ import image4 from "@/public/pic/thewordwise.png";
 import image5 from "@/public/pic/bookself.png";
 import image6 from "@/public/pic/gula.png";
 import image7 from "@/public/pic/webdasar.png";
+import image9 from "@/public/pic/crud-laravel.png";
 const projects = [
   {
+    img: image9,
+    title: "Laravel Customer App",
+    description:
+      "Project ini merupakan app manajemen customer yang memiliki fitur create, update, delete, read, dan soft delete, teknologi yang digunakan adalah laravel 11",
+    links: {
+      site: null,
+      github: null,
+    },
+  },
+  {
     img: image1,
-    title: "Project 01",
+    title: "Project Hotel Booking",
     description:
       "Project ini merupakan sebuah dashboard booking hotel,dalam project ini menggunakan beberapa teknologi, seperti react router, react query atau tanstack, styled component, react hook form, dan beberapa teknologi lain, untuk lebih jelasnya bisa ditanyakan pada sesi demo.",
     links: {
