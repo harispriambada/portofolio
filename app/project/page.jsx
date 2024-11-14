@@ -22,7 +22,7 @@ const projects = [
       "Project ini merupakan app manajemen customer yang memiliki fitur create, update, delete, read, dan soft delete, teknologi yang digunakan adalah laravel 11",
     links: {
       site: null,
-      github: null,
+      github: "https://github.com/harispriambada/",
     },
   },
   {
