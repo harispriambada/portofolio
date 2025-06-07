@@ -15,7 +15,8 @@ import image6 from "@/public/pic/gula.png";
 import image7 from "@/public/pic/webdasar.png";
 import image9 from "@/public/pic/crud-laravel.png";
 import image10 from "@/public/pic/al-quran-digital.png";
-import image11 from "@/public/pic/image.png";
+import image11 from "@/public/pic/gambar-thread.png";
+
 const projects = [
   {
     img: image9,
@@ -34,7 +35,7 @@ const projects = [
       "Project ini merupakan sebuah tugas dari dicoding untuk memenuhi syarat kelulusan kelas expert react, menggunakan react sebagai teknologi frontend",
     links: {
       site: null,
-      github: null,
+      github: "https://github.com/harispriambada/",
     },
   },
   {
@@ -44,7 +45,7 @@ const projects = [
       "Projek ini merupakan projek untuk baca quran pegawai RSAM dengan menggunakan teknologi seperti laravel, kemudian untuk styling menggunakan tailwind css serta quran ini dilengkapi dengan fitur pengecekan audio untuk mengecek bacaan user apakah valid atau tidak",
     links: {
       site: null,
-      github: null,
+      github: "https://github.com/harispriambada/",
     },
   },
   {
