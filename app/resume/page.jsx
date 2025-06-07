@@ -130,6 +130,11 @@ const education = {
       duration: "2023",
     },
     {
+      degree: "React web expert",
+      institution: "dicoding",
+      duration: "2025",
+    },
+    {
       degree: "HTML,CSS dan JavaScript: pemula sampai mahir",
       institution: "Udemy",
       duration: "2023",
